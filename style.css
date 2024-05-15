@@ -10,3 +10,10 @@ iframe{
     margin: 0;
     border: none;
 }
+.text{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
